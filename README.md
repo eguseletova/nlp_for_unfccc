@@ -6,3 +6,5 @@ The files in this repository are all that I used to do the following:
 3) Train a multi-class classifier to then predict what issues are addressed in each document
 4) Train a regression model to give each document a score according to the policy position assumed in that document
 5) Evaluate both models
+
+The data used in this repository is taken from the official UNFCCC document repository. 
